@@ -82,7 +82,7 @@ src/
 
 This repository also includes two additional scripts inside the `assessments/` folder:
 
-- `dsa-problems.js` – Solution to the DSA assignment.
-- `mongodb-setup.js` – Script for MongoDB database operations.
+- `DSA.js` – Solution to the DSA assignment.
+- `mongodb-aggregate.js` – Script for MongoDB database operations.
 
 Please navigate to the [assessments](./assessments) folder to view them.
