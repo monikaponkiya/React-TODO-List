@@ -77,3 +77,12 @@ src/
 │   └── todo-api.ts         # API methods (add, get, delete)
 └── App.tsx                 # Main entry
 ```
+
+## Additional Assessments
+
+This repository also includes two additional scripts inside the `assessments/` folder:
+
+- `dsa-problems.js` – Solution to the DSA assignment.
+- `mongodb-setup.js` – Script for MongoDB database operations.
+
+Please navigate to the [assessments](./assessments) folder to view them.
