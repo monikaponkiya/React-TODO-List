@@ -1,4 +1,4 @@
-# Event Booking System
+# TODO APP
 
 A simple and responsive TODO List app built with **React**, **TypeScript**, and **Ant Design**. It supports task creation, status change, filtering, pagination, and deletion, with API integration.
 
@@ -34,7 +34,7 @@ git clone https://github.com/monikaponkiya/React-TODO-List
 2. Navigate to the project directory:
 
 ```js
-cd TODO-APP
+cd React-TODO-List
 ```
 
 3. Install dependencies:
