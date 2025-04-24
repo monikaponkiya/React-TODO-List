@@ -62,6 +62,7 @@ VITE_REACT_APP_BASE_URL = https://dummyjson.com/todos
 ```
 ## Project Structure
 
+```js
 src/
 ├── pages/
 │   ├── add-TODO            # Input form to add todos
@@ -75,3 +76,4 @@ src/
 │   └── constant.ts         # Constant for Todo
 │   └── todo-api.ts         # API methods (add, get, delete)
 └── App.tsx                 # Main entry
+```
